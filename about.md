@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-[!whistler_pano](images/pano_whistler.jpg)
+![whistler_pano](images/pano_whistler.jpg)
 
 Born and Raised in Vancouver BC, I am an outdoor enthusiast and interested in the intersection between humanity and technology. I was educated in civil engineering after which I pursued a masters degree in management. As I was always interested in computers and helping people find solutions to problems, which led me to my current pursuits.
 
